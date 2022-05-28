@@ -1,16 +1,13 @@
-# The-Movie-Cinema
+# CINEMAHOLICS deployed on: https://cinemaholicss.herokuapp.com/
 
-![Python](https://img.shields.io/badge/Python-3.8-blueviolet)
-![API](https://img.shields.io/badge/API-TMDB-fcba03)
-![Framework](https://img.shields.io/badge/Framework-Flask-red)
-![Frontend](https://img.shields.io/badge/Frontend-HTML/CSS/JS-green)
+
 
 
 This will give you all the details of the requested movie such as genre, release date, rating, runtime, top cast, reviews, recommended movies, overview, etc.
 
 The details of the movies(title, genre, runtime, rating, poster, etc) are fetched using an API by TMDB, https://www.themoviedb.org/documentation/api, and using the IMDB id of the movie in the API.
 
-## website link
+## website link https://cinemaholicss.herokuapp.com/
 
 website link: 
 
@@ -31,5 +28,10 @@ website link:
 2. Replace YOUR_API_KEY in  `static/recommend.js` file.
 3. Open your terminal/command prompt from your project directory and run the `main.py` file by executing the command `python main.py`.
 4. Hurray! Done.
+
+![Python](https://img.shields.io/badge/Python-3.8-blueviolet)
+![API](https://img.shields.io/badge/API-TMDB-fcba03)
+![Framework](https://img.shields.io/badge/Framework-Flask-red)
+![Frontend](https://img.shields.io/badge/Frontend-HTML/CSS/JS-green)
 
 
