@@ -7,7 +7,7 @@ This will give you all the details of the requested movie such as genre, release
 
 The details of the movies(title, genre, runtime, rating, poster, etc) are fetched using an API by TMDB, https://www.themoviedb.org/documentation/api, and using the IMDB id of the movie in the API.
 
-## website link https://cinemaholicss.herokuapp.com/
+# website link https://cinemaholicss.herokuapp.com/
 
 website link: 
 
@@ -25,9 +25,10 @@ website link:
 ## How to run the project?
 
 1. Clone this repository in your local system.
-2. Replace YOUR_API_KEY in  `static/recommend.js` file.
-3. Open your terminal/command prompt from your project directory and run the `main.py` file by executing the command `python main.py`.
-4. Hurray! Done.
+2. Run the command pip install -r requirements.txt to install all the required libraries.
+3. Replace YOUR_API_KEY in  `static/recommend.js` file.
+5. Open your terminal/command prompt from your project directory and run the `main.py` file by executing the command `python main.py`.
+6. Hurray! Done.
 
 ![Python](https://img.shields.io/badge/Python-3.8-blueviolet)
 ![API](https://img.shields.io/badge/API-TMDB-fcba03)
