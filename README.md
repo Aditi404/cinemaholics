@@ -25,7 +25,7 @@ website link:
 ## How to run the project?
 
 1. Clone this repository in your local system.
-2. Run the command pip install -r requirements.txt to install all the required libraries.
+2. Run the command "pip install -r requirements.txt" to install all the required libraries.
 3. Replace YOUR_API_KEY in  `static/recommend.js` file.
 5. Open your terminal/command prompt from your project directory and run the `main.py` file by executing the command `python main.py`.
 6. Hurray! Done.
